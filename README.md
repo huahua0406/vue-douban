@@ -3,7 +3,9 @@
 > 基于vue2.0+vue-router+vuex的SPA应用
 
 ## 运行项目
-项目地址：https://github.com/huahua0406/
+
+项目地址：https://github.com/huahua0406/vue-douban
+
 clone项目到本地，进入项目文件夹，安装依赖
 
 ``` bash
